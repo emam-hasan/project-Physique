@@ -2,15 +2,15 @@
 
 Medical Service
 
-**Home page
-**Login/Sign Up
-**Patient profile -> online prescription -> medical history -> disease, medicine, test 
-**Survey based on patient profile or diseases
-**Unique id for each user ( we can use NID)- optional
-**3 Interface -> DOCTOR side, patient side, pharmacy (share a id) 
+Home page
+Login/Sign Up
+Patient profile -> online prescription -> medical history -> disease, medicine, test 
+Survey based on patient profile or diseases
+Unique id for each user ( we can use NID)- optional
+3 Interface -> DOCTOR side, patient side, pharmacy (share a id) 
 
 *Doctor:
-\**Doctors database & hospitals, record (career history-> achievement ) 
+Doctors database & hospitals, record (career history-> achievement ) 
 Appointment -> show schedule 
 
 *Medicine:
